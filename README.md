@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abtolo
-- 👀 I’m interested in coding and business
+- 👀 I’m interested in app and web development 
 - 🌱 I’m currently in first year of Uni
 - 💞️ I’m focusing on making more projects now 
 
